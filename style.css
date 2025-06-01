@@ -2,5 +2,56 @@
     margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+.container{
+    width: 100%;
+    min-height: 100dvh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .cont_dark_mode{
+    width: 80%;
+    max-width: 800px;
+    min-height: 400px;
+    margin: 0 auto;
+    border: 1px solid;
+    position: relative;
+}
+
+.container .cont_dark_mode .box_dark_mode{
+    width: 120px;
+    height: 25px;
+    border: 2px solid;
+    border-radius: 20px;
+    position: absolute;
+    right: 5px;
+    top: 2%;
+}
+
+.container .cont_dark_mode .box_dark_mode .box_ligth_of{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    cursor: pointer;
+
+}
+
+.container .cont_dark_mode .box_dark_mode .ligth_of{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 2%;
+    background-color: black;
+}
+
+
 
