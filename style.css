@@ -53,8 +53,9 @@
     height: 100%;
     position: relative;
     cursor: pointer;
-
+    
 }
+
 
 .container .cont_dark_mode_on .box_dark_mode .ligth_of{
     width: 15px;
@@ -66,6 +67,19 @@
     transform: translateY(-50%);
     left: 2%;
     background-color: var(--color_primary);
+    transition: .3s ease-in-out;
+}
+
+.container .cont_dark_mode_on .box_dark_mode .ligth_on{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 85%;
+    transition: .3s ease-in-out;
 }
 
 
