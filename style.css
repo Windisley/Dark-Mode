@@ -18,7 +18,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-   
+    background-color: var(--color_secundary);
+    transition: .3s ease-in-out;
+}
+
+.container_on{
+    background-color: var(--color_primary);
 }
 
 .container .cont_dark_mode_of{
@@ -41,7 +46,7 @@
     max-width: 800px;
     min-height: 400px;
     margin: 0 auto;
-    border: 1px solid;
+    border: 1px solid var(--color_secundary);
     position: relative;
     background: url(https://images.wallpaperscraft.com/image/single/moon_stars_space_159884_1280x720.jpg);
     background-position: center center;
