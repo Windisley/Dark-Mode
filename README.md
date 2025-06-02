@@ -11,10 +11,10 @@ Um projeto simples e elegante de **Dark Mode** com imagens de fundo dinâmicas, 
 
 ## 📸 Demonstração
 
-| Modo Claro
-|------------|-------------|
+Modo Claro
 | ![Modo Claro](https://github.com/user-attachments/assets/34294ce6-d063-426d-9fbf-174eef09e1c1)
-| Modo Escuro 
+
+ Modo Escuro 
 | ![Modo Escuro](https://github.com/user-attachments/assets/3b2d4882-cad2-4157-9e35-2e81c41c76ea)
 
 
