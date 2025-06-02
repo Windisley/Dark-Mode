@@ -14,8 +14,8 @@ Um projeto simples e elegante de **Dark Mode** com imagens de fundo dinâmicas, 
 | Modo Claro | Modo Escuro |
 |------------|-------------|
 | ![Modo Claro](![ligth](https://github.com/user-attachments/assets/34294ce6-d063-426d-9fbf-174eef09e1c1)
-) | ![Modo Escuro](![dark](https://github.com/user-attachments/assets/3b2d4882-cad2-4157-9e35-2e81c41c76ea)
-) |
+| ![Modo Escuro](![dark](https://github.com/user-attachments/assets/3b2d4882-cad2-4157-9e35-2e81c41c76ea)
+
 
 ## 🛠 Tecnologias Utilizadas
 
